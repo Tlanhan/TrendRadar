@@ -32,6 +32,10 @@ DJI
 京东
 刘强东
 
+pdd 拼多多
+
+阿里 千问 阿里云 通义
+
 字节
 bytedance
 张一鸣
@@ -48,10 +52,14 @@ NVIDIA
 
 AMD
 
+GPU
+TPU
+
 谷歌
 google
 gemini
-deepmind
+deepmind 
+nanobanana nano banana
 
 chatgpt
 openai
@@ -74,7 +82,7 @@ AI应用
 AI营销
 AI医疗
 人工智能
-AIGC应用
+AIGC
 
 自动驾驶
 机器人
@@ -87,9 +95,12 @@ AIGC应用
 日本
 韩国
 
-核能 小堆
-航空 C919
-水电站 三峡 雅鲁藏布江江
+核能 小堆 核电
+
+航空 航天 C919
+
+水电站 三峡 雅鲁藏布江江 基建
+
 海洋经济
 
 海南
@@ -97,3 +108,9 @@ AIGC应用
 
 长鑫存储
 内存存储
+
+ETF etf
+
+铜 金 银 期货 棕榈油 
+
+工业金属 贵金属 稀土
