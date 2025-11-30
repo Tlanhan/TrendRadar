@@ -2,8 +2,10 @@ DeepSeek
 梁文锋
 
 华为
-华为昇腾 Ascend
-鸿蒙生态 HarmonyOS NEXT
+华为昇腾 
+Ascend
+鸿蒙生态 
+HarmonyOS
 
 比亚迪
 新能源
@@ -25,7 +27,8 @@ DJI
 半导体国产化
 半导体设备
 国产芯片
-光刻机 ASML
+光刻机
+ASML
 
 摩尔线程
 
@@ -34,7 +37,10 @@ DJI
 
 pdd 拼多多
 
-阿里 千问 阿里云 通义
+阿里
+千问
+阿里云
+通义
 
 字节
 bytedance
@@ -59,7 +65,7 @@ TPU
 google
 gemini
 deepmind 
-nanobanana nano banana
+nanobanana
 
 chatgpt
 openai
@@ -95,11 +101,17 @@ AIGC
 日本
 韩国
 
-核能 小堆 核电
+核能
+小堆
+核电
 
-航空 航天 C919
+航空
+航天
 
-水电站 三峡 雅鲁藏布江江 基建
+水电站
+三峡
+雅鲁藏布江
+基建
 
 海洋经济
 
@@ -109,8 +121,15 @@ AIGC
 长鑫存储
 内存存储
 
-ETF etf
+ETF
+etf
 
-铜 金 银 期货 棕榈油 
+铜
+金
+银
+期货
+棕榈油 
 
-工业金属 贵金属 稀土
+工业金属
+贵金属
+稀土
